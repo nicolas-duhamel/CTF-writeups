@@ -1,7 +1,6 @@
 # Writeup RSA-customer-service
 
-Challenge author : nikost
-Writeup author : dolipr4necrypt0
+Challenge author : nikost | Writeup author : dolipr4necrypt0
 
 ## Challenge analysis
 
